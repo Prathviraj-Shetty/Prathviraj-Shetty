@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathviraj</h1>
 <h2 align="center">A passionate full stack developer from India</h2>
 <br>
+
 - 🌱 I’m currently learning **BE in Computer Science Engineering in NMAMIT**
 
 - 💬 Ask me about **Web Development**
